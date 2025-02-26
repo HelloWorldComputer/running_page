@@ -11,13 +11,13 @@ interface ISiteMetadataResult {
 
 const data: ISiteMetadataResult = {
   siteTitle: 'Running Page',
-  siteUrl: 'https://thetime.space',
+  siteUrl: 'https://running-page-wheat.vercel.app/',
   logo: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQTtc69JxHNcmN1ETpMUX4dozAgAN6iPjWalQ&usqp=CAU',
   description: 'Personal site and blog',
   navLinks: [
     {
       name: 'Contact',
-      url: '丁小山.网址',
+      url: 'http://xn--5gq955aoia.xn--ses554g/',
     },
     {
       name: 'About',
