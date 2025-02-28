@@ -10,13 +10,13 @@ interface ISiteMetadataResult {
 }
 
 const data: ISiteMetadataResult = {
-  siteTitle: 'Running Page',
+  siteTitle: '丁小山‘s Running Page',
   siteUrl: 'https://running-page-wheat.vercel.app/',
   logo: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQTtc69JxHNcmN1ETpMUX4dozAgAN6iPjWalQ&usqp=CAU',
   description: 'Personal site and blog',
   navLinks: [
     {
-      name: 'Contact',
+      name: 'DingXiaoshan',
       url: 'http://xn--5gq955aoia.xn--ses554g/',
     },
     {
