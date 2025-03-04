@@ -11,18 +11,15 @@ interface ISiteMetadataResult {
 
 const data: ISiteMetadataResult = {
   siteTitle: 'Running Page',
-  siteUrl: 'https://running-page-wheat.vercel.app/',
-  logo: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQTtc69JxHNcmN1ETpMUX4dozAgAN6iPjWalQ&usqp=CAU',
+  siteUrl: 'http://xn--5gq955aoia.xn--ses554g/',
+  logo: 'https://www.picgo.net/image/151741005814-.pic.WuYLQm',
   description: 'Personal site and blog',
   navLinks: [
     {
-      name: 'DingXiaoshan',
-      url: 'http://xn--5gq955aoia.xn--ses554g/',
+      name: 'X',
+      url: 'https://x.com/idingxiaoshan',
     },
-    {
-      name: 'About',
-      url: 'https://github.com/yihong0618/running_page/blob/master/README-CN.md',
-    },
+  
   ],
 };
 
